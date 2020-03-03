@@ -1,5 +1,0 @@
-das ist der Text zeile 1
-das ist der Text zeile 2
-das ist der Text zeile 3 (verbesserung)
-das ist der Text zeile 4 (verbesserung)
-das ist der Text zeile 5 (verbesserung)
